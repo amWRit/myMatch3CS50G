@@ -1,4 +1,6 @@
 # amWRit
+=======
+# Match3CS50G
 
 __Assignment 3: "Match-3, The Shiny Update"__
 
@@ -31,3 +33,5 @@ __Play with Mouse__ _(Optional)_
 __Hint__ _(Bonus)_
 - Show hint, which tile to swap in which direction. 
 - This was done just to make testing easier- to be removed if not needed.
+=======
+Assets included here were copied from the distrubuted source files by CS50. Codes were written with help from the course itself.0
