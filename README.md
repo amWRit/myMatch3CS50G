@@ -1,6 +1,9 @@
 # amWRit
-=======
+
 # Match3CS50G
+
+As part of learning through Harvard's CS50G "Introduction to Game Development" course, recreating the Match3 game using Lua and LOVE2D.
+Updates were made on the original source code provided by CS50, based on assignment specifications.
 
 __Assignment 3: "Match-3, The Shiny Update"__
 
